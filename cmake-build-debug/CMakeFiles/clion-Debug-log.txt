@@ -1,0 +1,1 @@
+Cannot create directory F:/PROJECT/stm32cubemx/cubemx/f407zgt6/cmake-build-debug: `mkdir "/F:"` failed with exit code 1: stdout='', stderr='mkdir: cannot create directory '/F:': Permission denied'
